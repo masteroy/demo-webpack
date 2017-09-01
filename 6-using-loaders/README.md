@@ -1,3 +1,8 @@
+install packages
+````
+$ npm install
+````
+
 run webpack
 ````
 $ webpack
