@@ -1,0 +1,17 @@
+{
+  "name": "demo-webpack",
+  "version": "1.0.0",
+  "description": "demo webpack",
+  "main": "app.js",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "repository": "https://github.com/masteroy/demo-webpack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James",
+  "license": "ISC"
+}
